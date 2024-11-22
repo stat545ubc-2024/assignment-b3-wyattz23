@@ -1,5 +1,7 @@
 # 📊 **WyattAPP: MTCars Dataset Explorer**
+# Student Name:
 
+Xiang Zhang (prefered name: Wyatt Zhang)
 ### **Overview**
 This Shiny application allows users to explore and analyze the `mtcars` dataset interactively. Users can filter cars based on key attributes like MPG, horsepower, and the number of cylinders, and view the results in both graphical and tabular formats.
 
